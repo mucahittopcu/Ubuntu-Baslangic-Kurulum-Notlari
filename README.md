@@ -35,4 +35,8 @@ Terminalin otomatik olarak base env ile başlamsını kapatmak için;
 conda config --set auto_activate_base false
 ```
 
+* Alt Tab yaparken Ubuntu 18.04'te uygulamaları ayrı ayrı açma
+
+Settings > Devices > 
+
 
