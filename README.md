@@ -22,12 +22,17 @@ sudo ubuntu-drivers autoinstall
 Anaconda sitesinde talimatlara göre kurulur.
 
 Sonra
-'''
-asdasd
-'''
-
+```
 conda update conda
+conda update anaconda
+```
+Aktif edilmiş env'in terminalde gözükmemesi için;
+```
 conda config --set changeps1 false
+```
+Terminalin otomatik olarak base env ile başlamsını kapatmak için;
+```
 conda config --set auto_activate_base false
+```
 
 
