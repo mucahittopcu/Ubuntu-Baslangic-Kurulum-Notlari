@@ -26,7 +26,7 @@ Sonra
 conda update conda
 conda update anaconda
 ```
-Aktif edilmiş env'in terminalde gözükmemesi için;
+Aktif edilmiş env'in terminalde isminin gözükmemesi için;
 ```
 conda config --set changeps1 false
 ```
