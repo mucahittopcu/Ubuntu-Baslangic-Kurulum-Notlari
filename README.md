@@ -40,5 +40,9 @@ conda config --set auto_activate_base false
 Settings > Devices > Keyboard > Switch Windows == ALT + TAB
 
 
+* Pycharm Kurulumu
+```
+sudo snap install pycharm-community --classic
+```
 
 
