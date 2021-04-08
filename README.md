@@ -46,3 +46,15 @@ sudo snap install pycharm-community --classic
 ```
 
 
+* Discord Kurulumu
+```
+sudo snap install discord
+```
+
+Snap Paketlerini Güncelleme
+```
+sudo snap refresh
+```
+
+
+
