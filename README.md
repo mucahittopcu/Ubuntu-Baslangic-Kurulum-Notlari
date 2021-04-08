@@ -51,7 +51,7 @@ sudo snap install pycharm-community --classic
 sudo snap install discord
 ```
 
-Snap Paketlerini Güncelleme
+* Snap Paketlerini Güncelleme
 ```
 sudo snap refresh
 ```
