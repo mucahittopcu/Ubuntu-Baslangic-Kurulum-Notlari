@@ -18,6 +18,12 @@ cat /etc/apt/sources.list.d/google-chrome.list
 sudo ubuntu-drivers autoinstall
 ```
 
+* Terminal Tab Yardımlı Önerme
+.bashrc'nin sonuna aşağıdaki satır eklenir.
+```sh
+bind TAB:menu-complete
+```
+
 * Anaconda Kurulumu
 Anaconda sitesinde talimatlara göre kurulur.
 
