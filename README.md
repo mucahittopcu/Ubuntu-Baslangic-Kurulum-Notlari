@@ -64,3 +64,9 @@ sudo snap refresh
 
 
 
+* Sonradan Çıkan Bluetooth Sorunu
+```
+sudo rmmod btusb
+sudo modprobe btusb
+```
+
