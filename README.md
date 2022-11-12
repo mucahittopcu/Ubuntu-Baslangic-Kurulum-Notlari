@@ -31,6 +31,7 @@ Sonra
 ```
 conda update conda
 conda update anaconda
+conda update --all
 ```
 Aktif edilmiş env'in terminalde isminin gözükmemesi için;
 ```
