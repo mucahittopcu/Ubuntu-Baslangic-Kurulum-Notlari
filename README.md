@@ -71,3 +71,10 @@ sudo rmmod btusb
 sudo modprobe btusb
 ```
 
+* Bluetooth Bağlantı Sorunu
+```
+sudo apt-get install pulseaudio-module-bluetooth
+sudo killall pulseaudio
+pulseaudio --start    
+sudo systemctl restart bluetooth
+```
